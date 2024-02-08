@@ -25,4 +25,20 @@
     }
     .FERAPONT {
     color: rgb(153, 220, 20);
-        }
+    }
+    .table {
+    width: 100%;
+    }
+        
+    table, th, td {
+    border: 3px solid #0b0a0a;
+    padding: 6px;
+    text-align: center;
+    }
+        
+    th {
+    background-color: #4a3c0267;
+    }
+    td {
+    background-color: bisque;
+    }
