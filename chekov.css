@@ -1,0 +1,25 @@
+.speech {
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size:15px; 
+    color: black;
+}
+.direction {
+    font-family: 'Times New Roman', Times, serif; 
+    font-size:15px; 
+    color: black; 
+    background-color: lightgray;
+    transition: backgroung-color 0.4s, color 0.4s;
+    }
+    .direction:hover{
+    background-color: aliceblue;
+    color: darkgoldenrod;
+    }
+    .name{
+    font-weight:bolder;
+    }
+    .CHUBUKOV {
+    color:blueviolet;
+    }
+    .LOMOV {
+    color: crimson;
+    }
